@@ -6,6 +6,9 @@
     "description": "Provides access to Invidious, a YouTube frontend.",
     "author": "tauquir-mta",
     "pluginPath": "dist/InvidiousProvider.cs3",
+    "repositoryUrl": "https://github.com/tauquir-mta/extensions",
+    "fileSize": 11762,
+    "sha256": "3ff17354e8b991fdf9cb3b17399cea50f09f064d17aaddb2002f9f6e29be469b",
     "type": "Provider"
   }
 ]
