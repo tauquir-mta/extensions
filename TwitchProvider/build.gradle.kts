@@ -1,23 +1,13 @@
-// Use an integer for version numbers
-version = 2
 
 cloudstream {
-    // All of these properties are optional, you can safely remove any of them.
+    // All of these properties are optional, you can still build a
+    // working plugin without them.
+    version = 1
+    description = "A provider for Twitch"
+    language = "en"
+    authors = listOf("tauquir-mta")
 
-    description = "Watch livestreams from Twitch"
-    authors = listOf("CranberrySoup")
-
-    /**
-    * Status int as one of the following:
-    * 0: Down
-    * 1: Ok
-    * 2: Slow
-    * 3: Beta-only
-    **/
-    status = 1 // Will be 3 if unspecified
-
-    tvTypes = listOf("Live")
-    iconUrl = "https://www.google.com/s2/favicons?domain=twitch.tv&sz=%size%"
-
-    isCrossPlatform = true
+    // The status of the plugin
+    // 1 = Down, 2 = Ok, 3 = Slow, 4 = Beta
+    status = 2
 }

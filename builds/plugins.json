@@ -1,0 +1,23 @@
+[
+  {
+    "name": "InvidiousProvider",
+    "internalName": "InvidiousProvider",
+    "version": "1",
+    "url": "https://raw.githubusercontent.com/tauquir-mta/extensions/builds/InvidiousProvider.cs3",
+    "repositoryUrl": "https://github.com/tauquir-mta/extensions"
+  },
+  {
+    "name": "DailymotionProvider",
+    "internalName": "DailymotionProvider",
+    "version": "1",
+    "url": "https://raw.githubusercontent.com/tauquir-mta/extensions/builds/DailymotionProvider.cs3",
+    "repositoryUrl": "https://github.com/tauquir-mta/extensions"
+  },
+  {
+    "name": "TwitchProvider",
+    "internalName": "TwitchProvider",
+    "version": "1",
+    "url": "https://raw.githubusercontent.com/tauquir-mta/extensions/builds/TwitchProvider.cs3",
+    "repositoryUrl": "https://github.com/tauquir-mta/extensions"
+  }
+]
