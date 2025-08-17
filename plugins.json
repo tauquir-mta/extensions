@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "description": "Provides access to Invidious, a YouTube frontend.",
     "author": "tauquir-mta",
-    "pluginPath": "InvidiousProvider.cs3",
+    "pluginPath": "dist/InvidiousProvider.cs3",
     "type": "Provider"
   }
 ]
